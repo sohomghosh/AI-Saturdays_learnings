@@ -1,2 +1,5 @@
 https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY
 https://github.com/fastai/numerical-linear-algebra
+
+#Intuitive understanding of Eigen values & vectors
+https://www.youtube.com/watch?v=PFDu9oVAE-g
