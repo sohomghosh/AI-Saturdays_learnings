@@ -1,0 +1,16 @@
+Image Processing
+http://course.fast.ai/lessons/lesson1.html
+	#http://wiki.fast.ai/index.php/Lesson_1_Notes
+http://course.fast.ai/lessons/lesson2.html
+	#http://wiki.fast.ai/index.php/Lesson_2_Notes
+
+Theories in Deep Learning Video-1
+https://www.youtube.com/watch?v=KrTqxmS1-L4&index=1&list=PLGZ2kUxFoo2hGwaO_7XOYzGXQmCeM9D3Y
+Theories in Deep Learning Video-2
+https://www.youtube.com/watch?v=VsBFt_-h5QA&index=2&list=PLGZ2kUxFoo2hGwaO_7XOYzGXQmCeM9D3Y
+
+NLP - 1
+https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PLU40WL8Ol94IJzQtileLTqGZuXtGlLMP_
+NLP - 2
+https://www.youtube.com/watch?v=ERibwqs9p38&list=PLU40WL8Ol94IJzQtileLTqGZuXtGlLMP_&index=2
+
