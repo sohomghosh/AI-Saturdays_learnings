@@ -1,0 +1,66 @@
+sohom1ghosh@gmail.com
+Sohom@[heritageKolkata]compscengg16
+
+https://aisaturdays.slack.com/messages/C8FCPUC3D/team/U8G4BEW4U/
+http://sanyambhutani.com/AISaturday/index.html
+https://github.com/reshamas/fastai_deeplearn_part1/blob/master/resources.md
+https://github.com/fastai/courses
+http://wiki.fast.ai/index.php/Main_Page
+
+
+
+ --------
+| Week-1 |
+ --------
+
+Image Processing
+http://course.fast.ai/lessons/lesson1.html
+	#http://wiki.fast.ai/index.php/Lesson_1_Notes
+http://course.fast.ai/lessons/lesson2.html
+	#http://wiki.fast.ai/index.php/Lesson_2_Notes
+
+Theories in Deep Learning Video-1
+https://www.youtube.com/watch?v=KrTqxmS1-L4&index=1&list=PLGZ2kUxFoo2hGwaO_7XOYzGXQmCeM9D3Y
+Theories in Deep Learning Video-2
+https://www.youtube.com/watch?v=VsBFt_-h5QA&index=2&list=PLGZ2kUxFoo2hGwaO_7XOYzGXQmCeM9D3Y
+
+NLP - 1
+https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PLU40WL8Ol94IJzQtileLTqGZuXtGlLMP_
+NLP - 2
+https://www.youtube.com/watch?v=ERibwqs9p38&list=PLU40WL8Ol94IJzQtileLTqGZuXtGlLMP_&index=2
+
+
+
+ --------
+| Week-2 |
+ --------
+
+fast.ai lesson 2 annotated notebook [http://forums.fast.ai/uploads/default/original/2X/b/b01dffa62debfb8450fb9a3969d650645c54a3aa.pdf]
+fast.ai forums - find "wiki lesson X" in the search bar where X can be any lesson(part1v2) [http://forums.fast.ai/]
+transfer learning blog [https://towardsdatascience.com/transfer-learning-using-differential-learning-rates-638455797f00]
+learning rate blog [https://techburst.io/improving-the-way-we-work-with-learning-rate-5e99554f163b]
+cs231n notes [http://cs231n.github.io/classification/]
+cs231n assignment 1 [http://cs231n.github.io/assignments2017/assignment1/]
+cs231n lecture2 [https://www.youtube.com/watch?v=8inugqHkfvE&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=2]
+
+NLP lecture 3 https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
+STATS385 lecture 3 https://www.youtube.com/playlist?list=PLGZ2kUxFoo2hGwaO_7XOYzGXQmCeM9D3Y
+fast.ai lesson2 https://www.youtube.com/watch?v=JNxcznsrRb8
+fast.ai resources http://forums.fast.ai/t/wiki-lesson-2/9399
+
+Assignment 1 - https://github.com/divyanshj16/cs224n
+Assignment 1 instructions - https://web.archive.org/web/20170706150138/http://web.stanford.edu:80/class/cs224n/assignment1/index.html
+
+
+
+
+ --------
+| Week-3 | [NOT YET OVER]
+ --------
+
+fast.ai lesson 3 videos [https://www.youtube.com/watch?v=9C06ZPF8Uuc]
+wiki lesson 3 [http://forums.fast.ai/t/wiki-lesson-3/9401]
+cs231n lecture3 [https://www.youtube.com/watch?v=8inugqHkfvE&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=2]
+cs231n course website [http://cs231n.github.io/]
+cs224n lecture 2 and 3 [https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PLU40WL8Ol94IJzQtileLTqGZuXtGlLMP_]
+cs224n course website [http://web.stanford.edu/class/cs224n/syllabus.html]
