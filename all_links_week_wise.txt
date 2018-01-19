@@ -58,8 +58,15 @@ Assignment 1 instructions - https://web.archive.org/web/20170706150138/http://we
 | Week-3 | [NOT YET OVER]
  --------
 
+Agenda:
+Fast.ai lecture 3 - 1.5h
+cs231n lecture 3 - 1.5h
+cs231n excercise - 1.5h
+cs224n lecture 3,4 - 1.5h
+
 fast.ai lesson 3 videos [https://www.youtube.com/watch?v=9C06ZPF8Uuc]
 wiki lesson 3 [http://forums.fast.ai/t/wiki-lesson-3/9401]
+cs231n assignment 1 [http://cs231n.github.io/assignments2017/assignment1/]
 cs231n lecture3 [https://www.youtube.com/watch?v=8inugqHkfvE&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=2]
 cs231n course website [http://cs231n.github.io/]
 cs224n lecture 2 and 3 [https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PLU40WL8Ol94IJzQtileLTqGZuXtGlLMP_]
