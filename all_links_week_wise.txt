@@ -52,7 +52,7 @@ Assignment 1 instructions - https://web.archive.org/web/20170706150138/http://we
 
 
  --------
-| Week-3 | [NOT YET OVER]
+| Week-3 |
  --------
 
 Agenda:
@@ -83,3 +83,17 @@ cs231n(2015) lecture 4 and 5 [https://www.youtube.com/watch?v=8inugqHkfvE&list=P
 cs231n course website [http://cs231n.github.io/]
 cs224n lecture 2 and 3 [https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PLU40WL8Ol94IJzQtileLTqGZuXtGlLMP_]
 cs224n course website [http://web.stanford.edu/class/cs224n/syllabus.html]
+
+
+
+ --------
+| Week-5 |
+ --------
+cs231n lecture 5
+cs231n assignment 2 headstart 
+fast.ai implementation
+cs231n assignment 1 [http://cs231n.github.io/assignments2017/assignment1/]
+cs231n(2015) lecture - Notes [https://www.youtube.com/watch?v=8inugqHkfvE&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=2]
+cs231n course website [Course website]
+fast.ai lesson4 [https://www.youtube.com/watch?v=gbceqO8PpBg]
+fast.ai forums [http://forums.fast.ai/]
