@@ -97,3 +97,13 @@ cs231n(2015) lecture - Notes [https://www.youtube.com/watch?v=8inugqHkfvE&list=P
 cs231n course website [Course website]
 fast.ai lesson4 [https://www.youtube.com/watch?v=gbceqO8PpBg]
 fast.ai forums [http://forums.fast.ai/]
+
+
+
+
+ --------
+| Week-6 |
+ --------
+1. Introduction to Deep Learning Frameworks (TendorFlow, PyTorch, Keras) (best resources are the official websites and google)
+2. Short Talk on CNNs.
+3. Doubt Clearing by discussion.
