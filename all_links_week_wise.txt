@@ -106,4 +106,4 @@ fast.ai forums [http://forums.fast.ai/]
  --------
 1. Introduction to Deep Learning Frameworks (TendorFlow, PyTorch, Keras) (best resources are the official websites and google)
 2. Short Talk on CNNs.
-3. Doubt Clearing by discussion.
+3. Project Discussions.
