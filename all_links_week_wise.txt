@@ -107,3 +107,9 @@ fast.ai forums [http://forums.fast.ai/]
 1. Introduction to Deep Learning Frameworks (TendorFlow, PyTorch, Keras) (best resources are the official websites and google)
 2. Short Talk on CNNs.
 3. Project Discussions.
+
+ --------
+| Week-7 |
+ --------
+1. CS231n assignment 1 & 2
+2. Collaborative filtering(fastai)
