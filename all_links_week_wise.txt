@@ -113,3 +113,14 @@ fast.ai forums [http://forums.fast.ai/]
  --------
 1. CS231n assignment 1 & 2
 2. Collaborative filtering(fastai)
+
+
+ --------
+| Week-8 |
+ --------
+1. Talk on object detection(cs231n)
+2. Talk on object segmentation(cs231n)
+3. Talk on RNNs(cs231n)
+4. Project Discussion
+ 
+ 
