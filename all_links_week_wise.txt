@@ -124,3 +124,9 @@ fast.ai forums [http://forums.fast.ai/]
 4. Project Discussion
  
  
+ --------
+| Week-9 |
+ --------
+1. HANDS-ON Fast.aiV2 lesson 6(Char RNN in PyTorch)
+2. Language Model using Fast.ai library1
+3. Project Talk
