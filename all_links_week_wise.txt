@@ -142,5 +142,4 @@ fast.ai forums [http://forums.fast.ai/]
  --------
 | Week-11 |
  --------
- 
-1. FastAI part 2, lesson 10
+ 1. FastAI part 2, lesson 10
