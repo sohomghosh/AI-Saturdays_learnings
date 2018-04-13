@@ -138,3 +138,9 @@ fast.ai forums [http://forums.fast.ai/]
  1. Review of fast.ai
  2. Making a chatbot
  
+ 
+ --------
+| Week-11 |
+ --------
+ 
+1. FastAI part 2, lesson 10
