@@ -143,3 +143,11 @@ fast.ai forums [http://forums.fast.ai/]
 | Week-11 |
  --------
  1. FastAI part 2, lesson 10
+ 
+ 
+  --------
+| Week-12 |
+ --------
+1. CS231n - Winter 2016: Videos and Unsupervised Learning(Andrej Karpathy).
+2. Fastai part 2 - Lesson 11: Neural translation
+
